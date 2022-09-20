@@ -1,7 +1,7 @@
 <h1>🌹Hello world, I'm Gabriel Elias Machado</h1>
 
 
-- 🔭 I am currently looking for Front End Junior jobs
+- 🔭 I am currently Developer fullstack
 - 🌱 JavaScript, React and NodeJS
 - 📫 How to reach me: geliasmachado43@gmail.com
 - ⚡ Fun fact: I developed a game in my TCC, and I have three cats
